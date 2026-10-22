@@ -1,4 +1,9 @@
+Git lab demo
 # gitlab054
-prachi nikam
-2kd25cs055
+
+STUDENT INFORMATION
+Name:Prachi Nikam
+USN:2KD25CS055
+Branch:Computer science and Engineering
+Sem:3rd
 hello everyone
